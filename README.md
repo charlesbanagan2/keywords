@@ -26,47 +26,47 @@ and: Used in logical conditions.
 
 as: Used in exception handling.
 
-assert: Ensures that a certain condition holds true (validates book availability).
+assert: Ensures that a certain condition holds true 
 
-break: Breaks out of a loop under a specific condition (stopping iteration if a book has more than 10 copies).
+break: Breaks out of a loop under a specific condition 
 
 class: Defines the Library class that contains the main operations.
 
-continue: Skips the current iteration in a loop (if the book is out of stock).
+continue: Skips the current iteration in a loop 
 
-def: Defines functions (e.g., for borrowing, returning books).
+def: Defines functions 
 
 del: Deletes a book from the library.
 
-elif: Part of conditional logic to check multiple conditions (e.g., different actions like 'add', 'borrow', 'return').
+elif: Part of conditional logic to check multiple conditions 
 
 else: Used as the default case in conditional logic.
 
-except: Catches and handles exceptions (e.g., invalid quantity for book).
+except: Catches and handles exceptions.
 
 False: Used for boolean logic.
 
 finally: A block that always runs in exception handling.
 
-for: Used for looping through items (e.g., iterating over books in the library).
+for: Used for looping through items 
 
-from: Used to import specific parts of a module (e.g., datetime from the datetime module).
+from: Used to import specific parts of a module 
 
-global: Allows modification of a global variable (total_books_added).
+global: Allows modification of a global variable 
 
-if: Used for conditional checks (e.g., checking availability of books).
+if: Used for conditional checks 
 
-import: Used to import external libraries (e.g., time, datetime).
+import: Used to import external libraries 
 
-in: Used to check membership in data structures (e.g., checking if a book exists in the library).
+in: Used to check membership in data structures 
 
-is: Used to check object identity (e.g., checking if a book is None).
+is: Used to check object identity 
 
-lambda: Used to define a simple anonymous function (e.g., calculating total number of books).
+lambda: Used to define a simple anonymous function 
 
-None: Represents the absence of a value (e.g., checking if a book is not found).
+None: Represents the absence of a value 
 
-nonlocal: Allows modification of a variable in the enclosing scope (e.g., modifying the count variable inside a nested function).
+nonlocal: Allows modification of a variable in the enclosing scope 
 
 not: Used for logical negation.
 
@@ -74,7 +74,7 @@ or: Logical 'or' used in conditions.
 
 pass: A placeholder for an empty function body.
 
-raise: Used to manually trigger an exception (e.g., raising an exception if the quantity of a book is invalid).
+raise: Used to manually trigger an exception 
 
 return: Used to return values from functions.
 
@@ -84,7 +84,7 @@ try: Starts a block of code where exceptions are handled.
 
 while: Used to create a loop that continues until a condition is met.
 
-with: Used to handle file operations safely (e.g., saving library data to a file).
+with: Used to handle file operations safely 
 
 yield: Used to create a generator that yields book details one at a time.
 
